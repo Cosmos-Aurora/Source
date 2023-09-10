@@ -5,4 +5,4 @@
 
 [Full Changelog](https://github.com/keerthana-bot/source/compare/v1.0.0...1.0.0)
 
-- Create the Souce
+- Create the Source
